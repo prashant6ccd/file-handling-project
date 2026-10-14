@@ -1,0 +1,67 @@
+🎙️ Voice Commands List
+1. Create a File
+
+"Create a file called notes.txt"
+
+"Make a file named report.doc"
+
+"New text file data.csv"
+
+"Add an empty file called index.html"
+
+"Please create a new file called test.txt"
+
+2. Create a Folder
+
+"Create a folder called College"
+
+"Make a directory named Projects"
+
+"New folder Work"
+
+"Add folder Backup"
+
+3. Show / List Files
+
+"Show all files"
+
+"List files"
+
+"Find files"
+
+"Show all PDFs"
+
+"List PDF files"
+
+4. Rename a File
+
+"Rename notes.txt to diary.txt"
+
+"Rename file old.txt as new.txt"
+
+"Rename the file data.csv to final_data.csv"
+
+5. Delete a File (Remember to confirm on the screen!)
+
+"Delete notes.txt"
+
+"Remove file report.doc"
+
+"Erase old_data.csv"
+
+"Delete the file test.txt"
+
+6. Storage Information (Queries)
+
+"How much storage am I using?"
+
+"How many space is used?"
+
+"Storage usage"
+
+"Disk space"
+
+"Largest file"
+
+"What is the biggest file?"
+
